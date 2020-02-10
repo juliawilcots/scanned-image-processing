@@ -24,6 +24,6 @@ The final photo will be saved in an output folder.
 I do not yet have a clean way of changing the:
 - output directory,
 - scale bar length,
-- scale bar text  
+- scale bar text (font size, font, what font says)
 
 (These are all hard-coded right now -- eventually I will have a .yaml)
