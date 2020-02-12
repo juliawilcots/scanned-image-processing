@@ -23,6 +23,7 @@ Example:
 will allow you to crop and add scales to three photos of Neoproterozoic rocks in South Australia.  
 
 Sequence of events:  
+***Note: you never click more than two (2) points on each pop-up window***
 1. The active photo will appear in a pop-up window
 2. You click the **top left** and **bottom right** corners of the area in the photo you would like to *keep* (make sure your scale bar is in this cropped area!!)
 3. The photo is then cropped and will reappear (cropped). 
